@@ -41,7 +41,6 @@
     "@angular/cli": "~21.0.4",
     "@angular/compiler-cli": "^21.0.6",
     "@types/chance": "^1.1.7",
-    "@types/date-fns": "^2.6.3",
     "@types/jasmine": "^5.1.13",
     "angular-cli-ghpages": "^3.0.2",
     "jasmine-core": "^5.13.0",
@@ -51,5 +50,11 @@
     "karma-jasmine": "~5.1.0",
     "karma-jasmine-html-reporter": "~2.1.0",
     "typescript": "~5.9.3"
+  },
+  "overrides": {
+    "undici": "^7.18.2",
+    "rimraf": "^6.0.1",
+    "glob": "^11.0.0",
+    "tar": "^7.5.3"
   }
 }
