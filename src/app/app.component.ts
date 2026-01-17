@@ -7,5 +7,5 @@ import { RouterOutlet } from '@angular/router';
     templateUrl: './app.component.html'
 })
 export class AppComponent {
-  title = 'MaterialPro Angular Admin Template';
+  title = 'MaterialPro Angular Admin Template [ghpages]';
 }
